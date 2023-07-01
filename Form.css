@@ -1,0 +1,241 @@
+.required{
+    color: red;
+}
+
+.line{
+    
+    /* Row-3 */
+
+
+/* Auto layout */
+
+display: block;
+flex-direction: row;
+align-items:flex-end;
+padding: 0px;
+gap: 24px;
+isolation: isolate;
+width: 513px;
+height: 60px;
+margin-top: 10px;
+
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+}
+
+.line1{
+     /* Row-3 */
+
+
+/* Auto layout */
+
+display: block;
+flex-direction: row;
+align-items:flex-end;
+padding: 0px;
+gap: 24px;
+isolation: isolate;
+width: 400px;
+display: inline-flex;
+height: 40px;
+margin-top: 10px;
+
+
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+}
+.Title, .Titleform{
+    /* Label */
+
+
+width: auto;
+height: 20px;
+
+/* sm-Label-M */
+
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+margin-top: 10px;
+/* identical to box height, or 143% */
+
+
+/* Font/Dark - #212121 */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.textbox, .textbox1{
+    /* Frame 280383 */
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 12px;
+gap: 10px;
+
+width: 450px;
+height: 36px;
+
+/* Elements Color/Card Color - #FFFFFF */
+
+background: #FFFFFF;
+/* Elements Color/Card Border - #E6E6E6 */
+
+border: 1px solid #E6E6E6;
+border-radius: 5px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+
+.Title1, .Title2{
+    /* Label */
+
+
+width: auto;
+height: 20px;
+
+/* sm-Label-M */
+
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+
+/* Font/Dark - #212121 */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.Form1, .Form2{
+    /* Frame 281168 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 96px;
+
+width: 450px;
+height:400px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+}
+
+
+.love{
+    /* Label */
+
+
+width: auto;
+height: 20px;
+
+/* sm-Label-M */
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+margin-top: 10px;
+/* identical to box height, or 143% */
+
+
+/* Font/Dark - #212121 */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.newinput{
+    /* Frame 280383 */
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 12px;
+gap: 10px;
+
+width: 213.5px;
+height: 36px;
+
+/* Elements Color/Card Color - #FFFFFF */
+
+background: #FFFFFF;
+/* Elements Color/Card Border - #E6E6E6 */
+
+border: 1px solid #E6E6E6;
+border-radius: 5px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+
